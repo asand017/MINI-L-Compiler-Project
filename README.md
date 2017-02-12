@@ -1,4 +1,4 @@
-#MINI-L Lexical Analyzer
+#MINI-L Compiler Project
 Compiler Design Project for CS152 - Compiler Design, at the University of California Riverside
 
 Project Specification Links:
