@@ -1,5 +1,4 @@
-#MINI-L Compiler Project
-Compiler Design Project for CS152 - Compiler Design, at the University of California Riverside
+MINI-L Compiler Project
 
 Project Specification Links:
 
